@@ -1,4 +1,4 @@
-package com.necatisahin.kafkaconsumer.model;
+package com.necatisahin.kafkaproducerconsumer.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
